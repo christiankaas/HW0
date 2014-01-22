@@ -8,9 +8,9 @@ Welcome to CS171.  In this class, we will be using a variety of tools that will 
 
 ### Sign up to github
 
-We will be using git and [GitHub](http://github.com) to manage our repositories. Sign up to github with your **.edu e-mail address** and request 6 repositories. You can use this text to ask for the repositories:
+We will be using git and [GitHub](http://github.com) to manage our repositories. Sign up to github with your **.edu e-mail address** [on this page](https://github.com/edu) and request 6 repositories. You can use this text to ask for the repositories:
 
->I will be using my educational micro account for CS 171 - visualization at Harvard (http://cs171.org). We will use github and github pages for the code in our homeworks and for our final projects. I will need 6 private repositories (4 for homeworks, 2 for projects) for the class. Thank you!
+>I will be using my educational micro account for CS 171 - visualization at Harvard (http://cs171.org). We will use github and github pages for the code in our homeworks and for our final projects. I will need 6 private repositories (5 for homeworks, 1 for projects) for the class. Thank you!
 
 **It is important that you complete this step timely, as it may take a while for github to provide you with the repositories.**
 
