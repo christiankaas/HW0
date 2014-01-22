@@ -10,9 +10,9 @@ Welcome to CS171.  In this class, we will be using a variety of tools that will 
 
 You'll be using git and [GitHub](http://github.com) to manage homeworks and projects. 
 
-Sign up for a github account (if you don't already have one) and request a free account upgrade [on this page](https://github.com/edu). You'll need to verify ownership of a **.edu e-mail address** if you didn't sign up with your .edu account. You can use this suggested text to request the account upgrade:
+Sign up for a github account (if you don't already have one) and request a free account upgrade [on this page](https://github.com/edu). You'll need to verify ownership of an **.edu e-mail address** if you didn't sign up with your .edu account. You can use this suggested text to request the account upgrade:
 
->I will be using my educational micro account for CS 171 - visualization at Harvard (http://cs171.org). We will use github and github pages for the code in our homeworks and for our final projects. I will need 6 private repositories (5 for homeworks, 2 for projects) for the class. Thank you!
+>I will be using my educational micro account for CS 171 - visualization at Harvard (http://cs171.org). We will use github and github pages for the code in our homeworks and for our final projects. I will need 6 private repositories (5 for homeworks, 1 for the final project) for the class. Thank you!
 
 **It is important that you complete this step quickly, as it may take a while for github to provide you with the repositories. Ensure to request a harvard.edu e-mail address if you don't already have one (e.g., because your registered via DCE).**
 
