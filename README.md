@@ -10,12 +10,11 @@ Welcome to CS171.  In this class, we will be using a variety of tools that will 
 
 We will be using git and [GitHub](http://github.com) to manage our repositories. Sign up to github with your **.edu e-mail address** and request 6 repositories. You can use this text to ask for the repositories:
 
-
 >I will be using my educational micro account for CS 171 - visualization at Harvard (http://cs171.org). We will use github and github pages for the code in our homeworks and for our final projects. I will need 6 private repositories (4 for homeworks, 2 for projects) for the class. Thank you!
 
 **It is important that you complete this step timely, as it may take a while for github to provide you with the repositories.**
 
-**Note that you will need and .edu e-mail address. If you don't have one (e.g., because your registered via the DCE), you need to request a Harvard e-mail address.**
+**Note that you will need a .edu e-mail address. If you don't have one (e.g., because your registered via the DCE), you need to request a Harvard e-mail address.**
 
 ### Class Survey
 Please complete the [mandatory course survey located here](https://docs.google.com/spreadsheet/viewform?formkey=dDJrMGpiNWMtM2NEdHI4YUdsalJnU3c6MA). It should only take a few moments of your time. It will ask you for your **github user name**, so you must go trough the sign-up process first. It is imperative that you fill out the survey on time.
@@ -46,19 +45,19 @@ while replacing LASTNAME and FIRSTNAME with your actual last and first name. Clo
 git clone https://github.com/GITHUBUSERNAME/cs171-hw0-LASTNAME-FIRSTNAME.git 
 ```
 
-Open or create the README.md file, put your name, harvard ID and e-mail address in it. Then, commit and push to github. Now you should be able to see the changed file in the repository on github.
+Create a `README.md` file, put your name, Harvard ID and e-mail address in it. Then, commit and push to github. Now you should be able to see the changed file in the repository on github.
 
-Next, share the repository with the user **[cs171tf](http://github.com/cs171tf)** by giving this user read permission. You will be asked to share all your projects and homeworks with this user account. Starting with HW1, you will also share the repository with your grading TF - you will be informed who that is.
+Next, share the repository with the user **[cs171tf](http://github.com/cs171tf)** by giving this user read permission. You will be asked to share all your projects and homeworks with this user account. Starting with HW1, you will also share the repository with your grading TF — you will be informed who that is.
 
 ## Problem 3 - Introduction to D3
 
-**Note: you should be able to complete this problem after you have finished the readings for week 2. There is no need to hand anything in - this is for you to ensure that you understood the concepts**
+**Note: you should be able to complete this problem after you have finished the readings for week 2. There is no need to hand anything in — this is for you to ensure that you understood the concepts.**
 
 Read the mandatory readings, and follow along with the examples in the D3 book (chapters 1-4, for week 1, chapters 5-8, for week 2). We recommend that you put the code you are producing into your github repository for HW0. 
 
 Once you're done with the readings, answer the following questions with regard to this code snippet. Assume the variables used are sensibly defined. You can also look at the [live example here](http://bl.ocks.org/alexsb/8565055).
 
-```
+```javascript
 svg.selectAll(".bar")
   .data(data)
   .enter()
