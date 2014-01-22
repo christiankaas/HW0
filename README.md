@@ -4,7 +4,7 @@
 
 **Due Thursday January 30st 2013 11:59 pm.**
 
-Welcome to CS171.  In this class, we will be using a variety of tools that will require some initial configuration. To ensure everything goes smoothly moving forward, we will setup the majority of those tools in this homework.  While some of this will likely be dull, doing it now will enable us to do more exciting work in the weeks that follow without getting bogged down in further software configuration.  This homework will not be graded, however it is essential that you complete it timely since it will enable us to set up your accounts. 
+Welcome to CS171.  In this class, we will be using a variety of tools that will require some initial configuration. To ensure everything goes smoothly moving forward, we will setup the majority of those tools in this homework.  This homework will not be graded, however it is essential that you complete it timely since the steps in this homework are necessary to begin with HW 1.
 
 ## Problem 1 - Class Survey, Signups, and Introduction
 
@@ -50,7 +50,7 @@ git clone https://github.com/GITHUBUSERNAME/cs171-hw0-LASTNAME-FIRSTNAME.git
 
 Open or create the README.md file, put your name, harvard ID and e-mail address in it. Then, commit and push to github. Now you should be able to see the changed file in the repository on github.
 
-Next, share the repository with the user **cs171tf**, giving this user read permission. You will be asked to share all your projects and homeworks with this user account. Starting with HW1, you will also share the repository with your grading TF - you will be informed who that is.
+Next, share the repository with the user **[cs171tf](http://github.com/cs171tf)** by giving this user read permission. You will be asked to share all your projects and homeworks with this user account. Starting with HW1, you will also share the repository with your grading TF - you will be informed who that is.
 
 ## Problem 3 - Introduction to D3
 
@@ -58,7 +58,7 @@ Next, share the repository with the user **cs171tf**, giving this user read perm
 
 Read the mandatory readings, and follow along with the examples in the D3 book (chapters 1-4, for week 1, chapters 5-8, for week 2). We recommend that you put the code you are producing into your github repository for HW0. 
 
-Once you're done with the readings, answer the following questions with regard to this code snippet. Assume the variables used are sensibly defined. You can also look at the [live example here](http://bl.ocks.org/alexsb/8565055):
+Once you're done with the readings, answer the following questions with regard to this code snippet. Assume the variables used are sensibly defined. You can also look at the [live example here](http://bl.ocks.org/alexsb/8565055).
 
 ```
 svg.selectAll(".bar")
@@ -75,8 +75,8 @@ svg.selectAll(".bar")
 ```
 
  * What does this snippet do?
- * What is .bar? What am I selecting?
- * Given that data is an array with [150, 230, 180, 90], what values do `d` and `i` take while this program executes. Why?
+ * What is `.bar`? What am I selecting?
+ * Given that data is an array with `[150, 230, 180, 90]`, what values do `d` and `i` take while this program executes. Why?
  * What does `append("rect")` do?
 
 
