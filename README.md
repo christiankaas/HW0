@@ -12,9 +12,11 @@ You'll be using git and [GitHub](http://github.com) to manage homeworks and proj
 
 Sign up for a github account (if you don't already have one) and request a free account upgrade [on this page](https://github.com/edu). You'll need to verify ownership of an **.edu e-mail address** if you didn't sign up with your .edu account. You can use this suggested text to request the account upgrade:
 
->I will be using my educational micro account for CS 171 - visualization at Harvard (http://cs171.org). We will use github and github pages for the code in our homeworks and for our final projects. I will need 6 private repositories (5 for homeworks, 1 for the final project) for the class. Thank you!
+>I will be using my educational micro account for CS 171 - visualization at Harvard (http://cs171.org). We will use github and github pages for the code in our homeworks and for our final projects. Thank you!
 
-**It is important that you complete this step quickly, as it may take a while for github to provide you with the repositories. Ensure to request a harvard.edu e-mail address if you don't already have one (e.g., because your registered via DCE).**
+This educational micro-plan will enable you to create 5 private repositories. We will need all 5 in the course of the class. If you are already using private repositories at github under your micro plan for other projects, and you can, under no circumstance, free-up your quota, please contact the staff well in advance of the deadline. 
+
+**It is important that you complete this step quickly, as it may take a while for github to provide you with the repositories. Make sure to request a harvard.edu e-mail address if you don't already have one (e.g., because your registered via DCE).**
 
 ### Class Survey
 Please complete the [mandatory course survey located here](https://docs.google.com/spreadsheet/viewform?formkey=dDJrMGpiNWMtM2NEdHI4YUdsalJnU3c6MA). It should only take a few moments of your time. It will ask you for your **github user name**, so you must go trough the sign-up process first. It is imperative that you fill out the survey on time.
