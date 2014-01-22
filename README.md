@@ -1,7 +1,5 @@
 # CS 171 Homework 0
 
-
-
 **Due Thursday January 30st 2013 11:59 pm.**
 
 Welcome to CS171.  In this class, we will be using a variety of tools that will require some initial configuration. To ensure everything goes smoothly moving forward, we will setup the majority of those tools in this homework.  This homework will not be graded, however it is essential that you complete it timely since the steps in this homework are necessary to begin with HW 1.
@@ -10,7 +8,7 @@ Welcome to CS171.  In this class, we will be using a variety of tools that will 
 
 ### Sign up to github
 
-We will be using git and (github)[http://github.com] to manage our repositories. Sign up to github with your **.edu e-mail address** and request 6 repositories. You can use this text to ask for the repositories:
+We will be using git and [GitHub](http://github.com) to manage our repositories. Sign up to github with your **.edu e-mail address** and request 6 repositories. You can use this text to ask for the repositories:
 
 
 >I will be using my educational micro account for CS 171 - visualization at Harvard (http://cs171.org). We will use github and github pages for the code in our homeworks and for our final projects. I will need 6 private repositories (4 for homeworks, 2 for projects) for the class. Thank you!
@@ -20,10 +18,10 @@ We will be using git and (github)[http://github.com] to manage our repositories.
 **Note that you will need and .edu e-mail address. If you don't have one (e.g., because your registered via the DCE), you need to request a Harvard e-mail address.**
 
 ### Class Survey
-Please complete the [mandatory course survey located here]([https://docs.google.com/spreadsheet/viewform?formkey=dDJrMGpiNWMtM2NEdHI4YUdsalJnU3c6MA]). It should only take a few moments of your time. It will ask you for your **github user name**, so you must go trough the sign-up process first. It is imperative that you fill out the survey on time.
+Please complete the [mandatory course survey located here](https://docs.google.com/spreadsheet/viewform?formkey=dDJrMGpiNWMtM2NEdHI4YUdsalJnU3c6MA). It should only take a few moments of your time. It will ask you for your **github user name**, so you must go trough the sign-up process first. It is imperative that you fill out the survey on time.
 
 ### Piazza
-Go to [Piazza](https://piazza.com/harvard/cs171) and sign up for the class using your Harvard e-mail address. If you don't (yet) have a Harvard e-mail address, send an e-mail to (staff@cs171.org)[mailto:staff@cs171.org] with the subject "Piazza Access: your@e.mail".  
+Go to [Piazza](https://piazza.com/harvard/cs171) and sign up for the class using your Harvard e-mail address. If you don't (yet) have a Harvard e-mail address, send an e-mail to [staff@cs171.org](mailto:staff@cs171.org) with the subject "Piazza Access: your@e.mail".  
 
 We will use Piazza as a forum for discussion, to find team members, to arrange appointments, and to ask questions. Piazza should be your primary form of communication with the staff. Use the staff e-mail only for individual requests, e.g., to excuse yourself from a mandatory guest lecture. All readings, homeworks, and project descriptions will be posted on Piazza first. 
 
@@ -78,8 +76,3 @@ svg.selectAll(".bar")
  * What is `.bar`? What am I selecting?
  * Given that data is an array with `[150, 230, 180, 90]`, what values do `d` and `i` take while this program executes. Why?
  * What does `append("rect")` do?
-
-
-
-
-
