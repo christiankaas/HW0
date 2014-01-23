@@ -77,3 +77,23 @@ svg.selectAll(".bar")
  * What is `.bar`? What am I selecting?
  * Given that data is an array with `[150, 230, 180, 90]`, what values do `d` and `i` take while this program executes. Why?
  * What does `append("rect")` do?
+
+Now consider the following code:
+
+```javascript
+var bars = svg.selectAll(".bar");
+
+var bars_enter = bars.data(data).enter();
+
+var rects = bars_enters.append("rect")
+  .attr({
+    class : "bar",
+    width : function(d) {return d;},
+    height: "40",
+    y : function(d, i) {return i*50 + 10;},
+    x : "10"
+   });
+```
+
+ * What does this snippet do? How is it different than the previous one?
+ * What do the variables `bars`, `bars_enter` and `rects` contain?
