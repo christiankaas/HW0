@@ -85,7 +85,7 @@ var bars = svg.selectAll(".bar");
 
 var bars_enter = bars.data(data).enter();
 
-var rects = bars_enters.append("rect")
+var rects = bars_enter.append("rect")
   .attr({
     class : "bar",
     width : function(d) {return d;},
