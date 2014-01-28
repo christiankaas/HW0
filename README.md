@@ -1,6 +1,6 @@
 # CS 171 Homework 0
 
-**Due Thursday January 30st 2014 11:59 pm.**
+**Due Thursday January 30th 2014 11:59 pm.**
 
 Welcome to CS171.  In this class, we will be using a variety of tools that will require some initial configuration. To ensure everything goes smoothly moving forward, we will setup the majority of those tools in this homework.  This homework will not be graded, however it is essential that you complete it timely since the steps in this homework are necessary to begin with HW 1.
 
