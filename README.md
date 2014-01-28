@@ -39,12 +39,12 @@ Alternatively, you can use one of the git clients listed on the [resource page](
 Read and follow along the mandatory reading - [Understanding Git Conceptually](http://www.sbf5.com/~cduan/technical/git/git-5.shtml). You should use the command line interface to understand what's going on. Then, create your own repository on github with the following name:
 
 ```
-cs171-hw0-LASTNAME-FIRSTNAME
+cs171-hw0-lastname-firstname
 ```
-while replacing LASTNAME and FIRSTNAME with your actual last and first name. Clone this repository to your local computer using something like:
+while replacing lastname and firstname with your actual last and first name. **Please use all-lowercase for your repository name**. Clone this repository to your local computer using something like:
 
 ```
-git clone https://github.com/GITHUBUSERNAME/cs171-hw0-LASTNAME-FIRSTNAME.git 
+git clone https://github.com/GITHUBUSERNAME/cs171-hw0-lastname-firstname.git 
 ```
 
 Create a `README.md` file, put your name, Harvard ID and e-mail address in it. Then, commit and push to github. Now you should be able to see the changed file in the repository on github.
